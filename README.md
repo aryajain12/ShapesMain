@@ -1,4 +1,4 @@
-#*Intern Project Statement:*
+# Intern Project Statement:
 Write a menu-driven interactive console based C++ application to perform geometric shapes
 manipulations. There has to be provision for respective calculations of 2-D as well as 3-D shapes. For
 2-D shapes area and perimeter and for 3-D shapes surface area and volume etc. parameters are to be
